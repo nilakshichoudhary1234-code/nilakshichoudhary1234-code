@@ -1,6 +1,6 @@
 <!-- CUSTOM BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/7yZ8F8m.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
 
 <!-- HEADER ANIMATION -->
@@ -42,10 +42,10 @@ I love **solving puzzles** 🧠✨
 
 ---
 
-# 🎨 Colorful Animated Sections
+# 🎨 Animated Visuals  
 <p align="center">
-  <img src="https://i.imgur.com/jx17oHT.gif" width="300px" />
-  <img src="https://i.imgur.com/ebCq8Lm.gif" width="300px" />
+  <img src="https://media.giphy.com/media/SSir29H0C8BkrnI8K2/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
 </p>
 
 ---
@@ -106,7 +106,7 @@ I love **solving puzzles** 🧠✨
 ---
 
 <p align="center">
- <img src="https://i.imgur.com/zkf7Q0B.gif" width="200px" />
+ <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="200px" />
 </p>
 
 <p align="center"><b>✨ Thank you for visiting my animated profile! ✨</b></p>
