@@ -101,12 +101,9 @@ I love **solving puzzles** 🧠✨
 - **LinkedIn:** www.linkedin.com/in/nilakshi-choudhary-712729382  
 - **LeetCode:** https://leetcode.com/u/nilakshich1234/  
 - **CodeChef:** https://www.codechef.com/users/nilakshi212  
-- **Email:** *(Add your email)*  
+ 
 
 ---
 
-<p align="center">
- <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="200px" />
-</p>
-
+ 
 <p align="center"><b>✨ Thank you for visiting my animated profile! ✨</b></p>
