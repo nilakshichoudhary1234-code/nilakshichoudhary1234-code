@@ -42,14 +42,6 @@ I love **solving puzzles** 🧠✨
 
 ---
 
-# 🎨 Animated Visuals  
-<p align="center">
-  <img src="https://media.giphy.com/media/SSir29H0C8BkrnI8K2/giphy.gif" width="300px" />
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px" />
-</p>
-
----
-
 # 💼 Featured Projects
 
 ### 🚀 **AI & ML Projects**
