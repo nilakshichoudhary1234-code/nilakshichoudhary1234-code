@@ -142,14 +142,7 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilakshichoudhary1234-code&show_icons=true&hide_border=true&title_color=8B5E3C&icon_color=A47148&text_color=4E342E" />
-</p>
-
----
-
+ 
 ## 🎯 Career Focus
 
 - 🚀 Software Engineering Internships  
@@ -159,18 +152,13 @@
 
 ---
 
+<!-- ================= DARK / LIGHT ADAPTIVE FOOTER ================= -->
 <p align="center">
-  <i>“Build systems that scale, code that lasts, and skills that compound.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&section=footer&color=gradient&customColorList=0,8B5E3C,C4A484,EFE6D8&text=Always%20Learning%20•%20Always%20Building%20•%20Always%20Improving&fontSize=18&fontColor=4E342E" />
 </p>
 
 <p align="center">
-  <i>“Consistency beats intensity — progress follows discipline.”</i>
-</p>
-
-<p align="center">
-  <i>“Learning never stops; great engineers evolve with the problem.”</i>
-</p>
-
-<p align="center">
-  ⭐ Always learning • Always improving • Always building
+  <sub>
+    Crafted with consistency, curiosity, and clean code 🤎  
+  </sub>
 </p>
