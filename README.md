@@ -23,15 +23,16 @@
 </p>
 
 ---
-
 ## 👩‍💻 Professional Summary
-Computer Science Engineering student with strong expertise in  
-**Data Structures & Algorithms (C++)**, **Full Stack Development (MERN)**,  
-and solid foundations in **Computer Science fundamentals**.  
-Actively preparing for **software engineering roles and internships** with a  
-focus on clean architecture, performance, and scalability.
 
----
+- 🎓 **Computer Science Engineering student (AKTU)** with a strong academic foundation  
+- 💻 Skilled in **Data Structures & Algorithms (C++)** and efficient problem solving  
+- 🌐 Hands-on learner in **Full Stack Development (MERN stack)**  
+- 🔐 Actively exploring **Cybersecurity & Computer Networking** domains  
+- 🧠 Solid understanding of **Core CS fundamentals** — OOPs, DBMS, OS, CN  
+- 🚀 Preparing for **Software Engineering internships and roles**  
+- 🧩 Focused on **clean architecture, performance optimization, and scalable systems**
+
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,linux,vscode" />
