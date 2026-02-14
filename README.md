@@ -1,37 +1,11 @@
-<!-- ============ BROWN ELEGANT ANIMATED HEADER (DARK/LIGHT FRIENDLY) ============ -->
+<!-- ============ BROWN ELEGANT ANIMATED HEADER (WORKING) ============ -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving
-    &height=190
-    &color=gradient
-    &customColorList=0,8B5E3C,C4A484,EFE6D8
-    &section=header
-    &text=Nilakshi%20Choudhary
-    &fontSize=38
-    &fontColor=4E342E
-    &animation=fadeIn
-    &fontAlignY=36
-    &desc=Computer%20Science%20Engineer%20%7C%20Software%20Engineering%20Focused
-    &descAlignY=62
-    &descColor=6D4C41" 
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=gradient&customColorList=0,8B5E3C,C4A484,EFE6D8&section=header&text=Nilakshi%20Choudhary&fontSize=38&fontColor=4E342E&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineer%20%7C%20Software%20Engineering%20Focused&descAlignY=62&descColor=6D4C41" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=Montserrat
-    &weight=600
-    &size=23
-    &pause=1100
-    &color=8B5E3C
-    &center=true
-    &vCenter=true
-    &width=720
-    &lines=Full+Stack+Developer+(MERN);DSA+in+C%2B%2B+%7C+System+Fundamentals;Cybersecurity+%7C+AI+Learner" 
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=23&pause=1100&color=8B5E3C&center=true&vCenter=true&width=720&lines=Full+Stack+Developer+(MERN);DSA+in+C%2B%2B+%7C+System+Fundamentals;Cybersecurity+%7C+AI+Learner" />
 </p>
-
 
 <p align="center">
   <a href="https://github.com/nilakshichoudhary1234-code">
