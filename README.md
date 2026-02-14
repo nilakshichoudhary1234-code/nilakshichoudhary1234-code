@@ -126,18 +126,23 @@ focus on clean architecture, performance, and scalability.
  
 
 
-
-## 📊 GitHub Contributions (Brown × White)
+## 📈Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilakshichoudhary1234-code&show_icons=true&hide_border=true&title_color=8B5E3C&icon_color=A47148&text_color=4E342E" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilakshichoudhary1234-code&bg_color=ffffff&color=8B5E3C&line=A47148&point=6D4C41&hide_border=true" />
 </p>
 
+---
+
+## 🔥GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilakshichoudhary1234-code&hide_border=true&ring=8B5E3C&fire=A47148&currStreakLabel=6D4C41" />
 </p>
 
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilakshichoudhary1234-code&bg_color=ffffff&color=8B5E3C&line=A47148&point=6D4C41&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nilakshichoudhary1234-code&show_icons=true&hide_border=true&title_color=8B5E3C&icon_color=A47148&text_color=4E342E" />
 </p>
 
 ---
