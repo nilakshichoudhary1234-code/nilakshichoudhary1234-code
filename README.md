@@ -151,11 +151,26 @@
 ---
 
 ## 🎯 Career Focus
-- Software Engineering Internships  
-- Full Stack Developer Roles  
-- Strong DSA & System Design foundations  
-- Open Source Contributions  
+
+- 🚀 Software Engineering Internships  
+- 🌐 Full Stack Developer Roles  
+- 🧠 Strong foundations in **DSA & System Design**  
+- 🌍 Open Source collaboration and real-world impact  
+
+---
 
 <p align="center">
-  <i>“Great engineers build quietly — their work speaks loudly.”</i>
+  <i>“Build systems that scale, code that lasts, and skills that compound.”</i>
+</p>
+
+<p align="center">
+  <i>“Consistency beats intensity — progress follows discipline.”</i>
+</p>
+
+<p align="center">
+  <i>“Learning never stops; great engineers evolve with the problem.”</i>
+</p>
+
+<p align="center">
+  ⭐ Always learning • Always improving • Always building
 </p>
