@@ -32,6 +32,12 @@ Actively preparing for **software engineering roles and internships** with a
 focus on clean architecture, performance, and scalability.
 
 ---
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,linux,vscode" />
+</p>
+
+---
 
 ## 🗄️ Learning Roadmap!
 
@@ -117,30 +123,9 @@ focus on clean architecture, performance, and scalability.
 
 ---
 
-## 🧩 Selected Projects
-**LeetCode DSA Tracker**  
-• Optimized C++ solutions  
-• Time & space complexity focused  
+ 
 
-**Frontend Projects Hub**  
-• Responsive, accessible UI  
-• Modern layouts and animations  
 
-**Moviify App**  
-• Movie discovery platform  
-• React + API integration  
-
-**AI / ML Utilities (In Progress)**  
-• Python-based learning projects  
-
----
-
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,linux,vscode" />
-</p>
-
----
 
 ## 📊 GitHub Contributions (Brown × White)
 <p align="center">
