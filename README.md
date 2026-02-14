@@ -33,35 +33,87 @@ focus on clean architecture, performance, and scalability.
 
 ---
 
-## 🧠 Core Skills (ATS Optimized)
-**Languages:** C++, JavaScript, Python  
-**Frontend:** HTML5, CSS3, React, Responsive Design  
-**Backend:** Node.js, Express.js, REST APIs  
-**Databases:** MongoDB, MySQL  
-**Tools:** Git, GitHub, Linux, VS Code  
-**CS Fundamentals:** DSA, OOPs, DBMS, OS, CN, System Design (Basics)
+## 🗄️ Learning Roadmap!
+
+<!-- Optional quote (kept commented as you had it) -->
+<!--
+<p align="center">
+✨ <i>Transforming curiosity into capability — one milestone at a time.</i> ✨
+</p>
+-->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=700&size=30&pause=1200&color=8B5E3C&center=true&vCenter=true&width=1100&lines=Learning+with+Consistency+🚀;Building+Skills+Step+by+Step+🧠;From+Foundations+to+Industry+Ready+💼" />
+</p>
 
 ---
 
-## 🧭 Journey of Study (Visual Roadmap)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Phase%201-Core%20CS-8B5E3C?style=for-the-badge"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux" />
+## 🟤 Phase 1: Core Foundations 🧱
+<p>
+  <img src="https://img.shields.io/badge/FOUNDATION-0F0F0F?style=for-the-badge&logo=codeforces&logoColor=8B5E3C"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Phase%202-Full%20Stack-6D4C41?style=for-the-badge"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql" />
+- 📜 **HTML • CSS • JavaScript**
+- 💻 **Data Structures & Problem Solving (C++)**
+- 🛠️ **Git & GitHub**
+- 📚 Programming fundamentals, logic building & clean code practices
+
+---
+
+## ⚫ Phase 2: Full Stack Development 🌐
+<p>
+  <img src="https://img.shields.io/badge/FULL%20STACK-3E2723?style=for-the-badge&logo=react&logoColor=D7B899"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Phase%203-AI%20%26%20Cybersecurity-A47148?style=for-the-badge"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,linux" />
+- ⚛️ **React.js (Component-based UI)**
+- 🟢 **Node.js • Express.js**
+- 🗄️ **Databases: MongoDB & SQL basics**
+- 🧩 Building scalable, real-world full stack applications
+
+---
+
+## 🟤 Phase 3: Python, AI & ML 🤖
+<p>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-5D4037?style=for-the-badge&logo=python&logoColor=E6D3B1"/>
 </p>
+
+- 🐍 **Python programming**
+- 📊 **NumPy • Pandas (Data Analysis)**
+- 🧠 **Machine Learning fundamentals**
+- 📈 Data-driven and intelligent systems
+
+---
+
+## ⚫ Phase 4: Cybersecurity & Networking 🔐
+<p>
+  <img src="https://img.shields.io/badge/SECURITY-1C1C1C?style=for-the-badge&logo=linux&logoColor=8B5E3C"/>
+</p>
+
+- 🌐 Computer Networks (basics → protocols)
+- 🛡️ Cybersecurity fundamentals
+- 🔍 Threats, attacks, and defense mechanisms
+
+---
+
+## 🟤 Phase 5: Emerging Technologies 🚀
+<p>
+  <img src="https://img.shields.io/badge/EMERGING%20TECH-4E342E?style=for-the-badge&logo=googlecloud&logoColor=E6D3B1"/>
+</p>
+
+- ☁️ Cloud & DevOps basics
+- ⚙️ System Design fundamentals
+- 🌱 Exploring scalable and trending technologies
+
+---
+
+## ⚫ Phase 6: Industry Readiness 💼
+<p>
+  <img src="https://img.shields.io/badge/CAREER%20READY-0F0F0F?style=for-the-badge&logo=github&logoColor=D7B899"/>
+</p>
+
+- 🚀 Major projects & case studies
+- 📄 Resume & portfolio optimization
+- 🌍 Open-source contributions & GitHub presence
 
 ---
 
