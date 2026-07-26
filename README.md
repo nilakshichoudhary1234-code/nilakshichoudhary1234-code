@@ -10,27 +10,29 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/nilakshichoudhary1234-code">
-  <img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://www.linkedin.com/in/nilakshi-choudhary-712729382">
-  <img src="https://img.shields.io/badge/LinkedIn-6D4C41?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://github.com/nilakshichoudhary1234-code">
+    <img src="https://img.shields.io/badge/GitHub-3E2723?style=for-the-badge&logo=github&logoColor=FDF6EC"/>
+  </a>
 
-<a href="https://leetcode.com/u/nilakshich1234/">
-  <img src="https://img.shields.io/badge/LeetCode-8B5E3C?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/nilakshi-choudhary-712729382">
+    <img src="https://img.shields.io/badge/LinkedIn-5D4037?style=for-the-badge&logo=linkedin&logoColor=FFF8E7"/>
+  </a>
 
-<a href="https://www.geeksforgeeks.org/profile/nilakshichonzol">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/u/nilakshich1234/">
+    <img src="https://img.shields.io/badge/LeetCode-795548?style=for-the-badge&logo=leetcode&logoColor=FFF8E7"/>
+  </a>
 
-<a href="https://www.codechef.com/users/nilakshi212">
-  <img src="https://img.shields.io/badge/CodeChef-A47148?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+  <a href="https://www.geeksforgeeks.org/profile/nilakshichonzol">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-8D6E63?style=for-the-badge&logo=geeksforgeeks&logoColor=FFF8E7"/>
+  </a>
+
+  <a href="https://www.codechef.com/users/nilakshi212">
+    <img src="https://img.shields.io/badge/CodeChef-A1887F?style=for-the-badge&logo=codechef&logoColor=FFF8E7"/>
+  </a>
 
 </p>
+ 
 
 ---
 ## 👩‍💻 Professional Summary
