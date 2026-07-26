@@ -10,18 +10,26 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nilakshichoudhary1234-code">
-    <img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-6D4C41?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-8B5E3C?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-A47148?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+<a href="https://github.com/nilakshichoudhary1234-code">
+  <img src="https://img.shields.io/badge/GitHub-4E342E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/nilakshi-choudhary-712729382">
+  <img src="https://img.shields.io/badge/LinkedIn-6D4C41?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/nilakshich1234/">
+  <img src="https://img.shields.io/badge/LeetCode-8B5E3C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/nilakshichonzol">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/nilakshi212">
+  <img src="https://img.shields.io/badge/CodeChef-A47148?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
 </p>
 
 ---
@@ -164,4 +172,4 @@
     Crafted with consistency, curiosity, and clean code 🤎  
   </sub>
 </p>
-change this bluish purple theme very attractive and all transformation of just colours and theme to bluish purple nothing else
+ 
